@@ -1,21 +1,203 @@
-# 💫 About Me:
-## 👋 Hi, I'm Vedant Dakare<br><br>💻 I'm a Computer Science * Data Structures & Algorithms (DSA) with problem-solving practice<br><br>⚙️ Tech I’m learning & using:<br><br>* **Languages:** C++, Python, JavaScript<br>* **AI/ML:** NLP, Word2Vec, Neural Networks<br>* **Backend:** Node.js, Express, APIs, PostgreSQL<br>* **Tools:** Git, GitHub, Linux (Ubuntu)<br><br>🎯 My goal is to build impactful AI-powered applications and become a strong software engineer.<br><br>📫 Always open to collaboration and learning new things!<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1D4ED8,100:38BDF8&section=header&text=Vedant%20Dakare&fontSize=44&fontColor=ffffff&fontAlignY=35" alt="profile banner" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=Backend+Developer+%7C+DSA+%7C+AI%2FML" alt="Typing animation" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakarevedant24@gmail.com) 
+<p align="center">
+  <b>Backend Developer | DSA | AI/ML</b>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vedant-Dakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vedant-Dakare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vedant-Dakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vedant-Dakare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="mailto:dakarevedant24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Vedant-Dakare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vedant-dakare-0538b9326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vedant-Dakare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ What I Bring
+- Build backend APIs and services with clear structure and routing.
+- Practice DSA regularly on LeetCode and Codeforces.
+- Work with Python, C++, and Node.js for problem-solving and development.
+- Use databases for CRUD, relations, and query optimization.
+
+---
+
+## About Me
+- Focus areas: backend APIs, DSA practice, and applied ML.
+- Languages: C++, Python, JavaScript.
+- Backend stack: Node.js, Express, FastAPI.
+- Data stack: PostgreSQL, MongoDB, Supabase.
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,python,javascript&theme=dark" alt="Languages" />
+      </p>
+      <h3>Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+     <h3>AI/ML</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="AI/ML" />
+</p>
+      <h3>Databases & Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,linux&theme=dark" alt="Databases and tools" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+  <a href="https://github.com/Vedant-Dakare/AI-interview-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant-Dakare&repo=AI-interview-platform&theme=tokyonight&hide_border=true" alt="AI Interview Platform" />
+  </a>
+  <p>
+    <b>AI Interview Platform</b><br />
+    Built an AI-driven interview system with real-time face recognition using Keras and TensorFlow. 
+    Includes candidate verification, automated evaluation, and intelligent interview flow.
+  </p>
+</td>
+    <td width="50%">
+  <a href="https://github.com/Vedant-Dakare/Code-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant-Dakare&repo=Code-Editor&theme=tokyonight&hide_border=true" alt="Code Editor" />
+  </a>
+  <p>
+    <b>Browser Code Editor</b><br />
+    Built a web-based code editor with in-browser runtime using WebContainers and integrated AI assistance via Ollama. 
+    Supports real-time code execution and an interactive development experience directly in the browser.
+  </p>
+</td>
+  </tr>
+  <tr>
+
+  <td width="50%">
+  <a href="https://github.com/Vedant-Dakare/Natural-Language-Data-Analyst">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant-Dakare&repo=Natural-Language-Data-Analyst&theme=tokyonight&hide_border=true" alt="Natural Language Data Analyst" />
+  </a>
+  <p>
+    <b>Natural Language Data Analyst</b><br />
+    Built an LLM-powered data analysis tool that allows users to explore datasets using natural language queries. 
+    Generates visualizations, discovers patterns, and analyzes relationships between variables, simplifying the data analysis workflow.
+  </p>
+</td>
+
+   <td width="50%">
+  <a href="https://github.com/Vedant-Dakare/demo-hack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant-Dakare&repo=demo-hack&theme=tokyonight&hide_border=true" alt="Hackathon Project - HackGenX" />
+  </a>
+  <p>
+    <b>HackGenX Project</b><br />
+    Developed a real-world problem-solving application during the HackGenX hackathon, focusing on rapid prototyping and practical implementation. 
+    Built core features under time constraints with an emphasis on usability, scalability, and impactful design.
+  </p>
+</td>
+  </tr>
+</table>
+
+---
+
+## Proof of Work
+<p>
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" alt="LeetCode" />
+  <img src="https://skillicons.dev/icons?i=codeforces&theme=dark" alt="Codeforces" />
+  <img src="https://skillicons.dev/icons?i=codechef&theme=dark" alt="CodeChef" />
+</p>
+
+<table>
+  <tr>
+    <td>
+      <b>LeetCode</b><br />
+      Profile: <a href="https://leetcode.com/u/Vedant_Dakare/">Vedant-Dakare</a><br />
+      Focus: data structures, algorithms, and timed practice.
+    </td>
+    <td>
+      <b>Codeforces</b><br />
+      Handle: <a href="https://codeforces.com/profile/Vedant_.Dakare">Vedant_.Dakare</a><br />
+      Focus: contests, implementation accuracy, and complexity control.
+    </td>
+    <td>
+      <b>CodeChef</b><br />
+      Handle: <a href="https://www.codechef.com/users/skulk_bug_90">Vedant Dakare</a><br />
+      Focus: consistent practice and problem coverage.
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Dakare&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=Vedant-Dakare&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Dakare&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Dakare&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vedant-Dakare/Vedant-Dakare/main/assets/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
+## Currently Learning
+- API design, validation, and error handling
+- Model evaluation and feature engineering basics
+- Deployment workflows and monitoring
+- Contest speed and implementation accuracy
+
+---
+
+## Goals for 2026
+- Ship 3-5 solid backend or AI projects with tests and docs.
+- Improve contest rating and problem-solving speed.
+- Publish a portfolio with deployed demos and source links.
+- Contribute to at least one open-source repo.
+
+---
+
+## Socials
+<p>
+  <a href="mailto:dakarevedant24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vedant-dakare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Vedant-Dakare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vedant-Dakare&style=flat-square&color=38BDF8" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:1D4ED8,100:0F172A&section=footer" alt="footer" />
+</p>
